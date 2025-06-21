@@ -23,10 +23,16 @@
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-dark-foreground: var(--dark-foreground);
+	--color-darkmode-background: #261929;
+	--color-lightmode-background: #f9f1fd;
   --color-my-yellow: #eed965;
   --color-my-lilac: #be7ac7;
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+}
+
+html {
+	scroll-behavior: smooth;
 }
 
 body {
