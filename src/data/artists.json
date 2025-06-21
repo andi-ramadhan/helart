@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "name": "Difra",
+    "slug": "difra",
+    "bio": "Expressive surrealism with layered textures and digital echoes.",
+    "profileImage": "/pfp.png"
+  },
+  {
+    "id": "2",
+    "name": "Aestho",
+    "slug": "aestho",
+    "bio": "Minimalist design with an eye for raw emotional form.",
+    "profileImage": "/pfp.png"
+  },
+  {
+    "id": "3",
+    "name": "Virell",
+    "slug": "virell",
+    "bio": "Color-driven chaos artist blending glitch and realism.",
+    "profileImage": "/pfp.png"
+  }
+]
